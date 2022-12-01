@@ -1,0 +1,41 @@
+{
+  "id": "05eb5a644fe55f7a3680730cbcf9c205596cdf07e6f7e777d40c86890a95531b",
+  "config": {
+    "cgroups": {
+      "path": "/",
+      "scope_prefix": "",
+      "devices": [
+        
+      ],
+      "memory": 0,
+      "memory_reservation": 0,
+      "memory_swap": 0,
+      "cpu_shares": 0,
+      "cpu_quota": 0,
+      "cpu_period": 0,
+      "cpu_rt_quota": 0,
+      "cpu_rt_period": 0,
+      "cpuset_cpus": "",
+      "cpuset_mems": "",
+      "pids_limit": 0,
+      "blkio_weight": 0,
+      "blkio_leaf_weight": 0,
+      "blkio_weight_device": null,
+      "blkio_throttle_read_bps_device": null,
+      "blkio_throttle_write_bps_device": null,
+      "blkio_throttle_read_iops_device": null,
+      "blkio_throttle_write_iops_device": null,
+      "freezer": "",
+      "hugetlb_limit": null,
+      "oom_kill_disable": false,
+      "memory_swappiness": null,
+      "net_prio_ifpriomap": null,
+      "net_cls_classid_u": 0,
+      "rdma": null,
+      "cpu_weight": 0,
+      "unified": null,
+      "Systemd": false,
+      "Rootless": false
+    }
+  }
+}
